@@ -21,4 +21,8 @@ With an electronics board created by the ETML-ES School and equiped with a FPGA(
 
 Project 5 - Effect mirror on the 7 Seg displays  [DONE] : 
 
-With an electronics board created by the ETML-ES School and equiped with a FPGA(EMP1270T144C5), realization program in VHDL which allows to display on 7SEG screen the values of A to D, the first degment displays normaly the value, and on the second display allows to see the letter inverted either horizontal or vertical. Two switches will allow to select 4 different mode : NORMAL - HORIZONTAL - VERTCIAL - NO DISPLAY.  
+With an electronics board created by the ETML-ES School and equiped with a FPGA(EMP1270T144C5), realization program in VHDL which allows to display on 7SEG screen the values of A to D, the first degment displays normaly the value, and on the second display allows to see the letter inverted either horizontal or vertical. Two switches will allow to select 4 different mode : NORMAL - HORIZONTAL - VERTCIAL - NO DISPLAY. 
+
+Project 6 - CADENAS V0.3  [DONE] : 
+
+With an electronics board created by the ETML-ES School and equiped with a FPGA(EMP1270T144C5), realization program in VHDL which allows to simulate the behavior of a padlock. 2 switches are used to 3 modes : rest / recording the new code / reading. 4 switches allow to record a new code or to read the code
